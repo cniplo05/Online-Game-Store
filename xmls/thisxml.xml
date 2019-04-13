@@ -1,0 +1,74 @@
+<?xml version="1.0" ?>
+<games>
+            <game>
+                <gameName>ARK</gameName>
+                <gameDesc>ADVENTURE</gameDesc>
+                <gameDev>KONAMI</gameDev>
+                <gameDate>2015-02-12</gameDate>
+                <gameIcon>images/adventure/ark.jpg</gameIcon>
+                <gamePrice>1299.50</gamePrice>
+            </game>
+            
+            <game>
+                <gameName>DIVISION</gameName>
+                <gameDesc>ADVENTURE</gameDesc>
+                <gameDev>KONAMI</gameDev>
+                <gameDate>2016-02-12</gameDate>
+                <gameIcon>images/adventure/division.jpg</gameIcon>
+                <gamePrice>1299.50</gamePrice>
+            </game>
+            
+            <game>
+                <gameName>H1Z1</gameName>
+                <gameDesc>ADVENTURE</gameDesc>
+                <gameDev>KONAMI</gameDev>
+                <gameDate>2013-02-12</gameDate>
+                <gameIcon>images/adventure/h1z1.jpg</gameIcon>
+                <gamePrice>1299.50</gamePrice>
+            </game>
+            
+            <game>
+                <gameName>NIER</gameName>
+                <gameDesc>ADVENTURE</gameDesc>
+                <gameDev>KONAMI</gameDev>
+                <gameDate>2011-02-12</gameDate>
+                <gameIcon>images/adventure/nier.jpg</gameIcon>
+                <gamePrice>1299.50</gamePrice>
+            </game>
+            
+            <game>
+                <gameName>PLAYERUNKNOWN'S BATTLEGROUNDS</gameName>
+                <gameDesc>ACTION</gameDesc>
+                <gameDev>EA</gameDev>
+                <gameDate>2016-06-15</gameDate>
+                <gameIcon>images/action/pubg.jpg</gameIcon>
+                <gamePrice>493.50</gamePrice>
+            </game>
+            
+            <game>
+                <gameName>ASSASSIN'S CREED</gameName>
+                <gameDesc>ACTION</gameDesc>
+                <gameDev>KONAMI</gameDev>
+                <gameDate>2011-06-15</gameDate>
+                <gameIcon>images/action/ac.jpg</gameIcon>
+                <gamePrice>2293.50</gamePrice>
+            </game>
+            
+            <game>
+                <gameName>GTA GRAND THEFT AUTO</gameName>
+                <gameDesc>ACTION</gameDesc>
+                <gameDev>UBISOFT</gameDev>
+                <gameDate>2018-06-15</gameDate>
+                <gameIcon>images/action/gta.jpg</gameIcon>
+                <gamePrice>3293.50</gamePrice>
+            </game>
+            
+            <game>
+                <gameName>FALLOUT 4</gameName>
+                <gameDesc>ACTION</gameDesc>
+                <gameDev>EA</gameDev>
+                <gameDate>2013-06-15</gameDate>
+                <gameIcon>images/action/f4.jpg</gameIcon>
+                <gamePrice>293.50</gamePrice>
+            </game>
+        </games>
